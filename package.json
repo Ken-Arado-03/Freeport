@@ -1,0 +1,10 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+    },
+    "devDependencies": {
+        "laravel-vite-plugin": "^2.0.0"
+    }
+}
